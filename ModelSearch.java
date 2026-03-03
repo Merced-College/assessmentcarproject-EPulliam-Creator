@@ -5,6 +5,3 @@ Eura Pulliam
 Assessment: Car Data Analyzer
 
 *******************************************************************************/
-public class MSMKS {
-    
-}
